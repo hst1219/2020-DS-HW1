@@ -1,0 +1,2 @@
+gcc -g -Wall data.c -lm -o data
+./data
